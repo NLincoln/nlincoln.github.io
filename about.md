@@ -10,4 +10,3 @@ Hello. My name is Nathan Lincoln. I'm a full-stack web developer with a passion 
 
 Currently I work at [IntelliFarms](https://intellifarms.com) on our customer platform.
 
-`dock up` refers to the command I use to start up my development environment (I have `docker-compose` aliased to `dock`)
