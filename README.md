@@ -1,1 +1,0 @@
-# nlincoln.github.io
